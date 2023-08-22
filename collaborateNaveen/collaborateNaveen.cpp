@@ -10,6 +10,7 @@ int main()
     cout << "adition is: " << c << endl;
     cout << "subtraction is:" << d << endl;
     cout << "multiplication is" << e << endl;
+    cout << "hi" << endl;
 
     return 0;
 }
