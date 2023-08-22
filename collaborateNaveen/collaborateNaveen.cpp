@@ -10,9 +10,7 @@ int main()
     int f = a / b;
     cout << "adition is: " << c << endl;
     cout << "subtraction is:" << d << endl;
-    cout << "multiplication is:" << e << endl;
-    cout << "division is: " << f << endl;
-    cout << "apples and oranges " << endl;
+
 
     return 0;
 }
