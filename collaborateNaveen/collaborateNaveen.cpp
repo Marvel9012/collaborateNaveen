@@ -7,9 +7,12 @@ int main()
     int c = a + b;
     int d = a - b;
     int e = a * b;
+    int f = a / b;
     cout << "adition is: " << c << endl;
     cout << "subtraction is:" << d << endl;
-    cout << "multiplication is" << e << endl;
+    cout << "multiplication is:" << e << endl;
+    cout << "division is:" << f << endl;
+
 
     return 0;
 }
