@@ -10,6 +10,7 @@ int main()
     int f = a / b;
     cout << "adition is: " << c << endl;
     cout << "subtraction is:" << d << endl;
+    cout << "hi naveen" << endl;
 
 
     return 0;
